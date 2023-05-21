@@ -36,6 +36,7 @@ The purpose behind creating an Expense Tracker API is to help individuals manage
 
 
 ## Below video shows the API test using swagger
+http://13.232.236.232:8086/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config
 
 
 
