@@ -35,7 +35,7 @@ Features:
 The purpose behind creating an Expense Tracker API is to help individuals manage their finances effectively by keeping track of their expenses. This API aims to provide a simple and convenient way for users to record their expenses and analyze their spending habits. Also this API allows users to easily input their expenses, which are then stored in a database. Users can retrieve their expense records on demand, either for the current month or up until the current date. This enables users to track their spending and identify areas where they may be overspending or where they can cut back to achieve their financial goals.
 
 
-## Below video shows the API test using swagger
+## Below link shows the API test using swagger
 http://13.232.236.232:8086/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config
 
 
